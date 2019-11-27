@@ -1,0 +1,57 @@
+[
+{
+"name": "Ford",
+"models": [
+{
+"name": "Fiesta",
+"puissance_fiscale": "5cv",
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/fiesta.jpeg"
+},
+{
+"name": "Focus",
+"puissance_fiscale": "6cv",
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/focus.jpg"
+},
+{
+"name": "Mustang",
+"puissance_fiscale": "24cv",
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/mustang.jpg"
+}
+]
+},
+{
+"name": "BMW",
+"models": [
+{
+"name": "320",
+"puissance_fiscale": "7cv",
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/bmw320.jpg"
+},
+{
+"name": "X3",
+"puissance_fiscale": "8cv",
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/bmwX3.jpeg"
+},
+{
+"name": "X5",
+"puissance_fiscale": "15cv",
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/x5.jpg"
+}
+]
+},
+{
+"name": "Fiat",
+"models": [
+{
+"name": "500",
+"puissance_fiscale": "4cv",
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/fiat500.jpeg"
+},
+{
+"name": "Panda",
+"puissance_fiscale": "5cv",
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/panda.jpg"
+}
+]
+}
+]
